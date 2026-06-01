@@ -10,8 +10,12 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 4. Print the results.
 
 ## 🧾 Program
-Add code here
+<img width="374" height="113" alt="Screenshot 2026-06-01 114309" src="https://github.com/user-attachments/assets/d379248e-cec0-48c8-827c-e4a21473dcfe" />
+
 
 ## Output
+<img width="363" height="179" alt="Screenshot 2026-06-01 114317" src="https://github.com/user-attachments/assets/28ab8608-ae71-4d67-8885-f6708eeccb66" />
+
 
 ## Result
+The execution of the program was successfully done.
